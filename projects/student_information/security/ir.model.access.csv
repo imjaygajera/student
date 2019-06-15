@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_student_student,access.student.student,model_student_student,,1,1,1,1
+access_res_pub,access.res.pub,model_res_pub,,1,1,1,1
+access_feed_feed,access.feed.feed,model_feed_feed,,1,1,1,1
+access_res_book,access.res.book,model_res_book,,1,1,1,1
